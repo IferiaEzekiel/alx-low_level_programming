@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - Printing a line of strings with puts
  * return: 0 (sucess)
  */
